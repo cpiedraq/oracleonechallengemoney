@@ -1,0 +1,11 @@
+[
+  {
+    "ResultWSConversion": "success",
+    "OriginCurrency": "USD",
+    "OptionDestination": "ARS",
+    "Conversion": 864.75,
+    "ResultConversion": 864750.0,
+    "Amount": 1000.0,
+    "HourOfConversion": "13-05-2024 08:37:34"
+  }
+]
